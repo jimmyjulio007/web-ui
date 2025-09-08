@@ -3,7 +3,7 @@
 export default function Section() {
     return (
         <div className="relative bg-[#EBE8DB] -z-20 rounded-md">
-            <div className="flex gap-4 items-start px-4 pt-[56px] pb-[232px]">
+            <div className="flex gap-4 items-start px-4 pt-[1016px] pb-[232px]">
                 <p className="flex-1 text-[#2A2119] font-mono text-[12px] uppercase ">
                     <span className="block">scroll gently into</span>
                     <span className="block">that good fieldF</span>

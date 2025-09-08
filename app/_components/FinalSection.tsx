@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function FinalSection() {
     return (
         <>
-            <div className="relative flex justify-between px-4 pt-[48px] pb-[208px] bg-[#EBE8DB] ">
+            <div className="relative flex justify-between px-4 pt-[48px] border-t-[1px] border-dashed border-[#2A2119] pb-[208px] bg-[#EBE8DB] ">
                 <p className="max-w-[525px] text-[#2A2119] font-sans text-[64px] leading-[64px]">
                     We thought we were making a template.
                 </p>
